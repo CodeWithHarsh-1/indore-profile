@@ -13,11 +13,17 @@
 }
 /* Navigation Bar */
 #navbar{
-
+display: flex ;
+border-radius: 60px;
 }
  
 /* Logo and image */
-#logo{
-    margin: auto;
+#logo {
+
+}
+  
+
+#logo img{
+    height: 52px;
     border-radius: 50px;
 }
