@@ -1,0 +1,23 @@
+/* Css reset */
+*{
+    margin:0;
+    padding: 0;
+
+}
+
+/* Css Variables */
+
+:root{
+    --navbar-heights: 59px;
+
+}
+/* Navigation Bar */
+#navbar{
+
+}
+ 
+/* Logo and image */
+#logo{
+    margin: auto;
+    border-radius: 50px;
+}
